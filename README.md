@@ -1,7 +1,7 @@
 backup and restore all openshift projects: 
 
 first login to openshift with openshift cli tool (oc)   
-
+You need oc and kubectl installed on your os .  
 oc login https://OPENSHIFT_ADDRESS --token=YOUR_TOKEN   
 
 
